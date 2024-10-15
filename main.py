@@ -30,7 +30,7 @@ INITIAL_BALL_SPEED = 3
 
 # Score settings
 MAX_SCORE = 5
-WINNING_MARGIN = 2  # Minimum score lead to win
+WINNING_MARGIN = 2  
 
 class Paddle:
     """Class to represent the paddle."""
@@ -194,7 +194,7 @@ class Game:
         logging.info(f"High scores updated. New entry: {initials} - {winner_score}")
 
     def display_high_scores(self):
-        """Display top 3 high scores on the main game screen.""" 
+        """Display top 3 high scores on main menu.""" 
         for i, (initials, score) in enumerate(self.high_scores[:3]):
             score_text = FONT.render(f"{i + 1}. {initials}: {score}", True, BLACK)
             screen.blit(score_text, (WIDTH // 2 - score_text.get_width() // 2, 100 + i * 40))
@@ -229,7 +229,7 @@ class Game:
 
 
     def display_instructions(self):
-        """Display game instructions on the main menu."""
+        """Display instructions on the main menu."""
         instructions = [
             "Controls:",
             "Left Paddle: W (up), S (down)",
@@ -276,7 +276,7 @@ class Game:
                     self.state = "menu"  # Return to menu after the right player wins
 
             # Rendering
-            screen.fill(WHITE)  # Clear the screen
+            screen.fill(WHITE)  # Clear screen
 
             # Draw title
             title_text = FONT.render("Pong Game", True, BLACK)
@@ -292,7 +292,7 @@ class Game:
                 for button in self.menu_buttons:
                     button.draw()
                 self.display_high_scores()
-                self.display_instructions()  # Display instructions on the menu
+                self.display_instructions()  
 
             pygame.display.flip()  # Update the full display
             clock.tick(60)  # Maintain 60 FPS
