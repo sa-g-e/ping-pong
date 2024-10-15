@@ -1,0 +1,6 @@
+YRL,30
+SAM,23
+ALL,9
+SM,7
+ARL,5
+EM,4
