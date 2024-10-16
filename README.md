@@ -1,4 +1,4 @@
-# Pong Ping Game
+# Ping Pong
 ================================
 
 A simple implementation of the classic Pong game using Pygame. This game allows two players to compete against each other by controlling paddles to hit a ball back and forth. The first player to reach 5 points (win by two) wins!
