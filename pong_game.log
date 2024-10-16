@@ -1,0 +1,673 @@
+2024-10-16 14:47:17,386 - INFO - Paddle created at position: <rect(50, 250, 10, 100)>
+2024-10-16 14:47:17,387 - INFO - Paddle created at position: <rect(740, 250, 10, 100)>
+2024-10-16 14:47:17,388 - INFO - Ball reset to center with speed (3, -3)
+2024-10-16 14:47:17,388 - INFO - Ball initialized and reset.
+2024-10-16 14:47:17,389 - INFO - High scores loaded successfully: [('YRL', 30), ('SAM', 23), ('ALL', 9), ('SM', 7), ('ARL', 5), ('EM', 4)]
+2024-10-16 14:47:17,390 - INFO - Game initialized
+2024-10-16 14:47:20,160 - INFO - Button 'Start' clicked.
+2024-10-16 14:47:20,160 - INFO - Ball reset to center with speed (3, -3)
+2024-10-16 14:47:20,161 - INFO - Game started
+2024-10-16 14:47:21,754 - INFO - Ball bounced on Y-axis. New speed_y: 3
+2024-10-16 14:47:21,754 - INFO - Ball bounced on top/bottom: <rect(681, -1, 20, 20)>
+2024-10-16 14:47:21,982 - INFO - Ball bounced on X-axis. New speed_x: -3
+2024-10-16 14:47:21,986 - INFO - Ball bounced on paddle: <rect(723, 41, 20, 20)>
+2024-10-16 14:47:23,161 - WARNING - Unexpected key pressed: d
+2024-10-16 14:47:24,980 - INFO - Ball bounced on Y-axis. New speed_y: -3.24
+2024-10-16 14:47:24,981 - INFO - Ball bounced on top/bottom: <rect(183, 581, 20, 20)>
+2024-10-16 14:47:25,697 - INFO - Ball bounced on X-axis. New speed_x: 3.24
+2024-10-16 14:47:25,698 - INFO - Ball bounced on paddle: <rect(54, 452, 20, 20)>
+2024-10-16 14:47:25,714 - INFO - Ball bounced on X-axis. New speed_x: -3.4992000000000005
+2024-10-16 14:47:25,715 - INFO - Ball bounced on paddle: <rect(57, 449, 20, 20)>
+2024-10-16 14:47:25,731 - INFO - Ball bounced on X-axis. New speed_x: 3.7791360000000007
+2024-10-16 14:47:25,731 - INFO - Ball bounced on paddle: <rect(53, 445, 20, 20)>
+2024-10-16 14:47:25,746 - INFO - Ball bounced on X-axis. New speed_x: -4.081466880000001
+2024-10-16 14:47:25,747 - INFO - Ball bounced on paddle: <rect(57, 441, 20, 20)>
+2024-10-16 14:47:25,763 - INFO - Ball bounced on X-axis. New speed_x: 4.407984230400001
+2024-10-16 14:47:25,764 - INFO - Ball bounced on paddle: <rect(53, 437, 20, 20)>
+2024-10-16 14:47:25,780 - INFO - Ball bounced on X-axis. New speed_x: -4.760622968832002
+2024-10-16 14:47:25,781 - INFO - Ball bounced on paddle: <rect(58, 432, 20, 20)>
+2024-10-16 14:47:25,797 - INFO - Ball bounced on X-axis. New speed_x: 5.141472806338562
+2024-10-16 14:47:25,797 - INFO - Ball bounced on paddle: <rect(53, 427, 20, 20)>
+2024-10-16 14:47:25,814 - INFO - Ball bounced on X-axis. New speed_x: -5.552790630845648
+2024-10-16 14:47:25,814 - INFO - Ball bounced on paddle: <rect(59, 421, 20, 20)>
+2024-10-16 14:47:25,830 - INFO - Ball bounced on X-axis. New speed_x: 5.9970138813133
+2024-10-16 14:47:25,831 - INFO - Ball bounced on paddle: <rect(53, 415, 20, 20)>
+2024-10-16 14:47:25,846 - INFO - Ball bounced on X-axis. New speed_x: -6.476774991818364
+2024-10-16 14:47:25,847 - INFO - Ball bounced on paddle: <rect(59, 409, 20, 20)>
+2024-10-16 14:47:25,863 - INFO - Ball bounced on X-axis. New speed_x: 6.994916991163834
+2024-10-16 14:47:25,863 - INFO - Ball bounced on paddle: <rect(52, 402, 20, 20)>
+2024-10-16 14:47:26,706 - INFO - Ball bounced on Y-axis. New speed_y: 7.55451035045694
+2024-10-16 14:47:26,706 - INFO - Ball bounced on top/bottom: <rect(460, -6, 20, 20)>
+2024-10-16 14:47:27,260 - INFO - Ball bounced on X-axis. New speed_x: -7.55451035045694
+2024-10-16 14:47:27,260 - INFO - Ball bounced on paddle: <rect(724, 258, 20, 20)>
+2024-10-16 14:47:27,939 - INFO - Ball bounced on Y-axis. New speed_y: -8.158871178493497
+2024-10-16 14:47:27,939 - INFO - Ball bounced on top/bottom: <rect(396, 586, 20, 20)>
+2024-10-16 14:47:28,777 - INFO - Right player scored. Score: 1
+2024-10-16 14:47:28,778 - INFO - Ball reset to center with speed (-3, -3)
+2024-10-16 14:47:30,395 - INFO - Ball bounced on Y-axis. New speed_y: 3
+2024-10-16 14:47:30,396 - INFO - Ball bounced on top/bottom: <rect(99, -1, 20, 20)>
+2024-10-16 14:47:30,629 - INFO - Ball bounced on X-axis. New speed_x: 3
+2024-10-16 14:47:30,630 - INFO - Ball bounced on paddle: <rect(57, 41, 20, 20)>
+2024-10-16 14:47:33,613 - INFO - Ball bounced on Y-axis. New speed_y: -3.24
+2024-10-16 14:47:33,614 - INFO - Ball bounced on top/bottom: <rect(597, 581, 20, 20)>
+2024-10-16 14:47:34,633 - INFO - Left player scored. Score: 1
+2024-10-16 14:47:34,634 - INFO - Ball reset to center with speed (3, 3)
+2024-10-16 14:47:36,244 - INFO - Ball bounced on Y-axis. New speed_y: -3
+2024-10-16 14:47:36,244 - INFO - Ball bounced on top/bottom: <rect(681, 581, 20, 20)>
+2024-10-16 14:47:36,559 - INFO - Ball bounced on X-axis. New speed_x: -3
+2024-10-16 14:47:36,561 - INFO - Ball bounced on paddle: <rect(738, 524, 20, 20)>
+2024-10-16 14:47:36,576 - INFO - Ball bounced on X-axis. New speed_x: 3.24
+2024-10-16 14:47:36,576 - INFO - Ball bounced on paddle: <rect(735, 521, 20, 20)>
+2024-10-16 14:47:36,593 - INFO - Ball bounced on X-axis. New speed_x: -3.4992000000000005
+2024-10-16 14:47:36,594 - INFO - Ball bounced on paddle: <rect(738, 518, 20, 20)>
+2024-10-16 14:47:36,610 - INFO - Ball bounced on X-axis. New speed_x: 3.7791360000000007
+2024-10-16 14:47:36,611 - INFO - Ball bounced on paddle: <rect(734, 514, 20, 20)>
+2024-10-16 14:47:36,626 - INFO - Ball bounced on X-axis. New speed_x: -4.081466880000001
+2024-10-16 14:47:36,627 - INFO - Ball bounced on paddle: <rect(738, 510, 20, 20)>
+2024-10-16 14:47:36,643 - INFO - Ball bounced on X-axis. New speed_x: 4.407984230400001
+2024-10-16 14:47:36,644 - INFO - Ball bounced on paddle: <rect(734, 506, 20, 20)>
+2024-10-16 14:47:36,660 - INFO - Ball bounced on X-axis. New speed_x: -4.760622968832002
+2024-10-16 14:47:36,661 - INFO - Ball bounced on paddle: <rect(739, 501, 20, 20)>
+2024-10-16 14:47:36,676 - INFO - Ball bounced on X-axis. New speed_x: 5.141472806338562
+2024-10-16 14:47:36,677 - INFO - Ball bounced on paddle: <rect(734, 496, 20, 20)>
+2024-10-16 14:47:36,693 - INFO - Ball bounced on X-axis. New speed_x: -5.552790630845648
+2024-10-16 14:47:36,694 - INFO - Ball bounced on paddle: <rect(740, 490, 20, 20)>
+2024-10-16 14:47:36,709 - INFO - Ball bounced on X-axis. New speed_x: 5.9970138813133
+2024-10-16 14:47:36,710 - INFO - Ball bounced on paddle: <rect(734, 484, 20, 20)>
+2024-10-16 14:47:36,724 - INFO - Ball bounced on X-axis. New speed_x: -6.476774991818364
+2024-10-16 14:47:36,725 - INFO - Ball bounced on paddle: <rect(740, 478, 20, 20)>
+2024-10-16 14:47:36,740 - INFO - Ball bounced on X-axis. New speed_x: 6.994916991163834
+2024-10-16 14:47:36,741 - INFO - Ball bounced on paddle: <rect(733, 471, 20, 20)>
+2024-10-16 14:47:36,839 - INFO - Left player scored. Score: 2
+2024-10-16 14:47:36,839 - INFO - Ball reset to center with speed (-3, -3)
+2024-10-16 14:47:38,461 - INFO - Ball bounced on Y-axis. New speed_y: 3
+2024-10-16 14:47:38,462 - INFO - Ball bounced on top/bottom: <rect(99, -1, 20, 20)>
+2024-10-16 14:47:38,711 - INFO - Ball bounced on X-axis. New speed_x: 3
+2024-10-16 14:47:38,712 - INFO - Ball bounced on paddle: <rect(54, 44, 20, 20)>
+2024-10-16 14:47:38,729 - INFO - Ball bounced on X-axis. New speed_x: -3.24
+2024-10-16 14:47:38,730 - INFO - Ball bounced on paddle: <rect(57, 47, 20, 20)>
+2024-10-16 14:47:38,743 - INFO - Ball bounced on X-axis. New speed_x: 3.4992000000000005
+2024-10-16 14:47:38,744 - INFO - Ball bounced on paddle: <rect(54, 50, 20, 20)>
+2024-10-16 14:47:38,761 - INFO - Ball bounced on X-axis. New speed_x: -3.7791360000000007
+2024-10-16 14:47:38,762 - INFO - Ball bounced on paddle: <rect(58, 54, 20, 20)>
+2024-10-16 14:47:38,779 - INFO - Ball bounced on X-axis. New speed_x: 4.081466880000001
+2024-10-16 14:47:38,779 - INFO - Ball bounced on paddle: <rect(54, 58, 20, 20)>
+2024-10-16 14:47:38,795 - INFO - Ball bounced on X-axis. New speed_x: -4.407984230400001
+2024-10-16 14:47:38,796 - INFO - Ball bounced on paddle: <rect(58, 62, 20, 20)>
+2024-10-16 14:47:38,811 - INFO - Ball bounced on X-axis. New speed_x: 4.760622968832002
+2024-10-16 14:47:38,812 - INFO - Ball bounced on paddle: <rect(53, 67, 20, 20)>
+2024-10-16 14:47:38,829 - INFO - Ball bounced on X-axis. New speed_x: -5.141472806338562
+2024-10-16 14:47:38,830 - INFO - Ball bounced on paddle: <rect(58, 72, 20, 20)>
+2024-10-16 14:47:38,843 - INFO - Ball bounced on X-axis. New speed_x: 5.552790630845648
+2024-10-16 14:47:38,844 - INFO - Ball bounced on paddle: <rect(52, 78, 20, 20)>
+2024-10-16 14:47:38,862 - INFO - Ball bounced on X-axis. New speed_x: -5.9970138813133
+2024-10-16 14:47:38,863 - INFO - Ball bounced on paddle: <rect(58, 84, 20, 20)>
+2024-10-16 14:47:38,879 - INFO - Ball bounced on X-axis. New speed_x: 6.476774991818364
+2024-10-16 14:47:38,880 - INFO - Ball bounced on paddle: <rect(52, 90, 20, 20)>
+2024-10-16 14:47:38,899 - INFO - Ball bounced on X-axis. New speed_x: -6.994916991163834
+2024-10-16 14:47:38,900 - INFO - Ball bounced on paddle: <rect(59, 97, 20, 20)>
+2024-10-16 14:47:38,913 - INFO - Ball bounced on X-axis. New speed_x: 7.55451035045694
+2024-10-16 14:47:38,913 - INFO - Ball bounced on paddle: <rect(51, 105, 20, 20)>
+2024-10-16 14:47:39,920 - INFO - Ball bounced on Y-axis. New speed_y: -8.158871178493497
+2024-10-16 14:47:39,920 - INFO - Ball bounced on top/bottom: <rect(531, 585, 20, 20)>
+2024-10-16 14:47:40,351 - INFO - Ball bounced on X-axis. New speed_x: -8.158871178493497
+2024-10-16 14:47:40,352 - INFO - Ball bounced on paddle: <rect(739, 377, 20, 20)>
+2024-10-16 14:47:40,368 - INFO - Ball bounced on X-axis. New speed_x: 8.811580872772977
+2024-10-16 14:47:40,368 - INFO - Ball bounced on paddle: <rect(730, 368, 20, 20)>
+2024-10-16 14:47:40,384 - INFO - Ball bounced on X-axis. New speed_x: -9.516507342594815
+2024-10-16 14:47:40,385 - INFO - Ball bounced on paddle: <rect(740, 358, 20, 20)>
+2024-10-16 14:47:40,401 - INFO - Ball bounced on X-axis. New speed_x: 10.2778279300024
+2024-10-16 14:47:40,402 - INFO - Ball bounced on paddle: <rect(730, 348, 20, 20)>
+2024-10-16 14:47:40,418 - INFO - Ball bounced on X-axis. New speed_x: -11.100054164402593
+2024-10-16 14:47:40,418 - INFO - Ball bounced on paddle: <rect(741, 337, 20, 20)>
+2024-10-16 14:47:40,434 - INFO - Ball bounced on X-axis. New speed_x: 11.988058497554801
+2024-10-16 14:47:40,435 - INFO - Ball bounced on paddle: <rect(729, 325, 20, 20)>
+2024-10-16 14:47:40,451 - INFO - Ball bounced on X-axis. New speed_x: -12.947103177359187
+2024-10-16 14:47:40,451 - INFO - Ball bounced on paddle: <rect(742, 312, 20, 20)>
+2024-10-16 14:47:40,467 - INFO - Ball bounced on X-axis. New speed_x: 13.982871431547924
+2024-10-16 14:47:40,468 - INFO - Ball bounced on paddle: <rect(728, 298, 20, 20)>
+2024-10-16 14:47:40,484 - INFO - Ball bounced on X-axis. New speed_x: -15.101501146071758
+2024-10-16 14:47:40,485 - INFO - Ball bounced on paddle: <rect(743, 283, 20, 20)>
+2024-10-16 14:47:40,502 - INFO - Ball bounced on X-axis. New speed_x: 16.3096212377575
+2024-10-16 14:47:40,502 - INFO - Ball bounced on paddle: <rect(727, 267, 20, 20)>
+2024-10-16 14:47:40,553 - INFO - Left player scored. Score: 3
+2024-10-16 14:47:40,554 - INFO - Ball reset to center with speed (3, 3)
+2024-10-16 14:47:42,169 - INFO - Ball bounced on Y-axis. New speed_y: -3
+2024-10-16 14:47:42,170 - INFO - Ball bounced on top/bottom: <rect(681, 581, 20, 20)>
+2024-10-16 14:47:42,722 - INFO - Left player scored. Score: 4
+2024-10-16 14:47:42,723 - INFO - Ball reset to center with speed (-3, -3)
+2024-10-16 14:47:44,335 - INFO - Ball bounced on Y-axis. New speed_y: 3
+2024-10-16 14:47:44,335 - INFO - Ball bounced on top/bottom: <rect(99, -1, 20, 20)>
+2024-10-16 14:47:44,635 - INFO - Ball bounced on X-axis. New speed_x: 3
+2024-10-16 14:47:44,636 - INFO - Ball bounced on paddle: <rect(45, 53, 20, 20)>
+2024-10-16 14:47:44,653 - INFO - Ball bounced on X-axis. New speed_x: -3.24
+2024-10-16 14:47:44,653 - INFO - Ball bounced on paddle: <rect(48, 56, 20, 20)>
+2024-10-16 14:47:44,668 - INFO - Ball bounced on X-axis. New speed_x: 3.4992000000000005
+2024-10-16 14:47:44,669 - INFO - Ball bounced on paddle: <rect(45, 59, 20, 20)>
+2024-10-16 14:47:44,685 - INFO - Ball bounced on X-axis. New speed_x: -3.7791360000000007
+2024-10-16 14:47:44,685 - INFO - Ball bounced on paddle: <rect(49, 63, 20, 20)>
+2024-10-16 14:47:44,702 - INFO - Ball bounced on X-axis. New speed_x: 4.081466880000001
+2024-10-16 14:47:44,702 - INFO - Ball bounced on paddle: <rect(45, 67, 20, 20)>
+2024-10-16 14:47:44,719 - INFO - Ball bounced on X-axis. New speed_x: -4.407984230400001
+2024-10-16 14:47:44,720 - INFO - Ball bounced on paddle: <rect(49, 71, 20, 20)>
+2024-10-16 14:47:44,735 - INFO - Ball bounced on X-axis. New speed_x: 4.760622968832002
+2024-10-16 14:47:44,736 - INFO - Ball bounced on paddle: <rect(44, 76, 20, 20)>
+2024-10-16 14:47:44,752 - INFO - Ball bounced on X-axis. New speed_x: -5.141472806338562
+2024-10-16 14:47:44,752 - INFO - Ball bounced on paddle: <rect(49, 81, 20, 20)>
+2024-10-16 14:47:44,767 - INFO - Ball bounced on X-axis. New speed_x: 5.552790630845648
+2024-10-16 14:47:44,768 - INFO - Ball bounced on paddle: <rect(43, 87, 20, 20)>
+2024-10-16 14:47:44,783 - INFO - Ball bounced on X-axis. New speed_x: -5.9970138813133
+2024-10-16 14:47:44,784 - INFO - Ball bounced on paddle: <rect(49, 93, 20, 20)>
+2024-10-16 14:47:44,800 - INFO - Ball bounced on X-axis. New speed_x: 6.476774991818364
+2024-10-16 14:47:44,801 - INFO - Ball bounced on paddle: <rect(43, 99, 20, 20)>
+2024-10-16 14:47:44,817 - INFO - Ball bounced on X-axis. New speed_x: -6.994916991163834
+2024-10-16 14:47:44,818 - INFO - Ball bounced on paddle: <rect(50, 106, 20, 20)>
+2024-10-16 14:47:44,832 - INFO - Ball bounced on X-axis. New speed_x: 7.55451035045694
+2024-10-16 14:47:44,833 - INFO - Ball bounced on paddle: <rect(42, 114, 20, 20)>
+2024-10-16 14:47:44,849 - INFO - Ball bounced on X-axis. New speed_x: -8.158871178493497
+2024-10-16 14:47:44,850 - INFO - Ball bounced on paddle: <rect(50, 122, 20, 20)>
+2024-10-16 14:47:44,866 - INFO - Ball bounced on X-axis. New speed_x: 8.811580872772977
+2024-10-16 14:47:44,867 - INFO - Ball bounced on paddle: <rect(41, 131, 20, 20)>
+2024-10-16 14:47:44,884 - INFO - Ball bounced on X-axis. New speed_x: -9.516507342594815
+2024-10-16 14:47:44,884 - INFO - Ball bounced on paddle: <rect(51, 141, 20, 20)>
+2024-10-16 14:47:44,900 - INFO - Ball bounced on X-axis. New speed_x: 10.2778279300024
+2024-10-16 14:47:44,901 - INFO - Ball bounced on paddle: <rect(41, 151, 20, 20)>
+2024-10-16 14:47:44,916 - INFO - Ball bounced on X-axis. New speed_x: -11.100054164402593
+2024-10-16 14:47:44,917 - INFO - Ball bounced on paddle: <rect(52, 162, 20, 20)>
+2024-10-16 14:47:44,998 - INFO - Right player scored. Score: 2
+2024-10-16 14:47:45,000 - INFO - Ball reset to center with speed (3, 3)
+2024-10-16 14:47:46,613 - INFO - Ball bounced on Y-axis. New speed_y: -3
+2024-10-16 14:47:46,613 - INFO - Ball bounced on top/bottom: <rect(681, 581, 20, 20)>
+2024-10-16 14:47:46,862 - INFO - Ball bounced on X-axis. New speed_x: -3
+2024-10-16 14:47:46,862 - INFO - Ball bounced on paddle: <rect(726, 536, 20, 20)>
+2024-10-16 14:47:46,878 - INFO - Ball bounced on X-axis. New speed_x: 3.24
+2024-10-16 14:47:46,879 - INFO - Ball bounced on paddle: <rect(723, 533, 20, 20)>
+2024-10-16 14:47:46,895 - INFO - Ball bounced on X-axis. New speed_x: -3.4992000000000005
+2024-10-16 14:47:46,896 - INFO - Ball bounced on paddle: <rect(726, 530, 20, 20)>
+2024-10-16 14:47:46,912 - INFO - Ball bounced on X-axis. New speed_x: 3.7791360000000007
+2024-10-16 14:47:46,913 - INFO - Ball bounced on paddle: <rect(722, 526, 20, 20)>
+2024-10-16 14:47:46,928 - INFO - Ball bounced on X-axis. New speed_x: -4.081466880000001
+2024-10-16 14:47:46,929 - INFO - Ball bounced on paddle: <rect(726, 522, 20, 20)>
+2024-10-16 14:47:46,945 - INFO - Ball bounced on X-axis. New speed_x: 4.407984230400001
+2024-10-16 14:47:46,945 - INFO - Ball bounced on paddle: <rect(722, 518, 20, 20)>
+2024-10-16 14:47:46,962 - INFO - Ball bounced on X-axis. New speed_x: -4.760622968832002
+2024-10-16 14:47:46,963 - INFO - Ball bounced on paddle: <rect(727, 513, 20, 20)>
+2024-10-16 14:47:46,979 - INFO - Ball bounced on X-axis. New speed_x: 5.141472806338562
+2024-10-16 14:47:46,980 - INFO - Ball bounced on paddle: <rect(722, 508, 20, 20)>
+2024-10-16 14:47:46,996 - INFO - Ball bounced on X-axis. New speed_x: -5.552790630845648
+2024-10-16 14:47:46,996 - INFO - Ball bounced on paddle: <rect(728, 502, 20, 20)>
+2024-10-16 14:47:47,012 - INFO - Ball bounced on X-axis. New speed_x: 5.9970138813133
+2024-10-16 14:47:47,013 - INFO - Ball bounced on paddle: <rect(722, 496, 20, 20)>
+2024-10-16 14:47:47,029 - INFO - Ball bounced on X-axis. New speed_x: -6.476774991818364
+2024-10-16 14:47:47,030 - INFO - Ball bounced on paddle: <rect(728, 490, 20, 20)>
+2024-10-16 14:47:47,045 - INFO - Ball bounced on X-axis. New speed_x: 6.994916991163834
+2024-10-16 14:47:47,045 - INFO - Ball bounced on paddle: <rect(721, 483, 20, 20)>
+2024-10-16 14:47:47,175 - INFO - Left player scored. Score: 5
+2024-10-16 14:47:47,176 - INFO - Ball reset to center with speed (-3, -3)
+2024-10-16 14:47:47,176 - INFO - Left player has won the game.
+2024-10-16 14:47:49,046 - INFO - Player entered initials: SSS
+2024-10-16 14:47:49,048 - INFO - High scores saved successfully
+2024-10-16 14:47:49,048 - INFO - High scores updated. New entry: SSS - 5
+2024-10-16 14:47:54,026 - INFO - Button 'Start' clicked.
+2024-10-16 14:47:54,027 - INFO - Ball reset to center with speed (3, -3)
+2024-10-16 14:47:54,027 - INFO - Game started
+2024-10-16 14:47:55,619 - INFO - Ball bounced on Y-axis. New speed_y: 3
+2024-10-16 14:47:55,620 - INFO - Ball bounced on top/bottom: <rect(681, -1, 20, 20)>
+2024-10-16 14:47:55,916 - INFO - Ball bounced on X-axis. New speed_x: -3
+2024-10-16 14:47:55,917 - INFO - Ball bounced on paddle: <rect(735, 53, 20, 20)>
+2024-10-16 14:47:55,932 - INFO - Ball bounced on X-axis. New speed_x: 3.24
+2024-10-16 14:47:55,933 - INFO - Ball bounced on paddle: <rect(732, 56, 20, 20)>
+2024-10-16 14:47:55,950 - INFO - Ball bounced on X-axis. New speed_x: -3.4992000000000005
+2024-10-16 14:47:55,950 - INFO - Ball bounced on paddle: <rect(735, 59, 20, 20)>
+2024-10-16 14:47:55,966 - INFO - Ball bounced on X-axis. New speed_x: 3.7791360000000007
+2024-10-16 14:47:55,967 - INFO - Ball bounced on paddle: <rect(731, 63, 20, 20)>
+2024-10-16 14:47:55,983 - INFO - Ball bounced on X-axis. New speed_x: -4.081466880000001
+2024-10-16 14:47:55,984 - INFO - Ball bounced on paddle: <rect(735, 67, 20, 20)>
+2024-10-16 14:47:56,000 - INFO - Ball bounced on X-axis. New speed_x: 4.407984230400001
+2024-10-16 14:47:56,001 - INFO - Ball bounced on paddle: <rect(731, 71, 20, 20)>
+2024-10-16 14:47:56,017 - INFO - Ball bounced on X-axis. New speed_x: -4.760622968832002
+2024-10-16 14:47:56,018 - INFO - Ball bounced on paddle: <rect(736, 76, 20, 20)>
+2024-10-16 14:47:56,034 - INFO - Ball bounced on X-axis. New speed_x: 5.141472806338562
+2024-10-16 14:47:56,035 - INFO - Ball bounced on paddle: <rect(731, 81, 20, 20)>
+2024-10-16 14:47:56,051 - INFO - Ball bounced on X-axis. New speed_x: -5.552790630845648
+2024-10-16 14:47:56,051 - INFO - Ball bounced on paddle: <rect(737, 87, 20, 20)>
+2024-10-16 14:47:56,067 - INFO - Ball bounced on X-axis. New speed_x: 5.9970138813133
+2024-10-16 14:47:56,067 - INFO - Ball bounced on paddle: <rect(731, 93, 20, 20)>
+2024-10-16 14:47:56,083 - INFO - Ball bounced on X-axis. New speed_x: -6.476774991818364
+2024-10-16 14:47:56,084 - INFO - Ball bounced on paddle: <rect(737, 99, 20, 20)>
+2024-10-16 14:47:56,098 - INFO - Ball bounced on X-axis. New speed_x: 6.994916991163834
+2024-10-16 14:47:56,100 - INFO - Ball bounced on paddle: <rect(730, 106, 20, 20)>
+2024-10-16 14:47:56,216 - INFO - Left player scored. Score: 1
+2024-10-16 14:47:56,217 - INFO - Ball reset to center with speed (3, -3)
+2024-10-16 14:47:57,831 - INFO - Ball bounced on Y-axis. New speed_y: 3
+2024-10-16 14:47:57,832 - INFO - Ball bounced on top/bottom: <rect(681, -1, 20, 20)>
+2024-10-16 14:47:58,067 - INFO - Ball bounced on X-axis. New speed_x: -3
+2024-10-16 14:47:58,068 - INFO - Ball bounced on paddle: <rect(723, 41, 20, 20)>
+2024-10-16 14:47:59,147 - WARNING - Unexpected key pressed: d
+2024-10-16 14:48:01,055 - INFO - Ball bounced on Y-axis. New speed_y: -3.24
+2024-10-16 14:48:01,055 - INFO - Ball bounced on top/bottom: <rect(183, 581, 20, 20)>
+2024-10-16 14:48:02,067 - INFO - Right player scored. Score: 1
+2024-10-16 14:48:02,067 - INFO - Ball reset to center with speed (-3, -3)
+2024-10-16 14:48:03,686 - INFO - Ball bounced on Y-axis. New speed_y: 3
+2024-10-16 14:48:03,686 - INFO - Ball bounced on top/bottom: <rect(99, -1, 20, 20)>
+2024-10-16 14:48:03,918 - INFO - Ball bounced on X-axis. New speed_x: 3
+2024-10-16 14:48:03,919 - INFO - Ball bounced on paddle: <rect(57, 41, 20, 20)>
+2024-10-16 14:48:06,904 - INFO - Ball bounced on Y-axis. New speed_y: -3.24
+2024-10-16 14:48:06,904 - INFO - Ball bounced on top/bottom: <rect(597, 581, 20, 20)>
+2024-10-16 14:48:07,603 - INFO - Ball bounced on X-axis. New speed_x: -3.24
+2024-10-16 14:48:07,604 - INFO - Ball bounced on paddle: <rect(723, 455, 20, 20)>
+2024-10-16 14:48:10,132 - INFO - Ball bounced on Y-axis. New speed_y: 3.4992000000000005
+2024-10-16 14:48:10,133 - INFO - Ball bounced on top/bottom: <rect(267, -1, 20, 20)>
+2024-10-16 14:48:11,413 - INFO - Ball bounced on X-axis. New speed_x: 3.4992000000000005
+2024-10-16 14:48:11,413 - INFO - Ball bounced on paddle: <rect(36, 230, 20, 20)>
+2024-10-16 14:48:11,429 - INFO - Ball bounced on X-axis. New speed_x: -3.7791360000000007
+2024-10-16 14:48:11,430 - INFO - Ball bounced on paddle: <rect(40, 234, 20, 20)>
+2024-10-16 14:48:11,445 - INFO - Ball bounced on X-axis. New speed_x: 4.081466880000001
+2024-10-16 14:48:11,446 - INFO - Ball bounced on paddle: <rect(36, 238, 20, 20)>
+2024-10-16 14:48:11,462 - INFO - Ball bounced on X-axis. New speed_x: -4.407984230400001
+2024-10-16 14:48:11,462 - INFO - Ball bounced on paddle: <rect(40, 242, 20, 20)>
+2024-10-16 14:48:11,478 - INFO - Ball bounced on X-axis. New speed_x: 4.760622968832002
+2024-10-16 14:48:11,478 - INFO - Ball bounced on paddle: <rect(35, 247, 20, 20)>
+2024-10-16 14:48:11,495 - INFO - Ball bounced on X-axis. New speed_x: -5.141472806338562
+2024-10-16 14:48:11,496 - INFO - Ball bounced on paddle: <rect(40, 252, 20, 20)>
+2024-10-16 14:48:11,512 - INFO - Ball bounced on X-axis. New speed_x: 5.552790630845648
+2024-10-16 14:48:11,513 - INFO - Ball bounced on paddle: <rect(34, 258, 20, 20)>
+2024-10-16 14:48:11,528 - INFO - Ball bounced on X-axis. New speed_x: -5.9970138813133
+2024-10-16 14:48:11,529 - INFO - Ball bounced on paddle: <rect(40, 264, 20, 20)>
+2024-10-16 14:48:11,545 - INFO - Ball bounced on X-axis. New speed_x: 6.476774991818364
+2024-10-16 14:48:11,545 - INFO - Ball bounced on paddle: <rect(34, 270, 20, 20)>
+2024-10-16 14:48:11,563 - INFO - Ball bounced on X-axis. New speed_x: -6.994916991163834
+2024-10-16 14:48:11,563 - INFO - Ball bounced on paddle: <rect(41, 277, 20, 20)>
+2024-10-16 14:48:11,578 - INFO - Ball bounced on X-axis. New speed_x: 7.55451035045694
+2024-10-16 14:48:11,579 - INFO - Ball bounced on paddle: <rect(33, 285, 20, 20)>
+2024-10-16 14:48:11,595 - INFO - Ball bounced on X-axis. New speed_x: -8.158871178493497
+2024-10-16 14:48:11,595 - INFO - Ball bounced on paddle: <rect(41, 293, 20, 20)>
+2024-10-16 14:48:11,612 - INFO - Ball bounced on X-axis. New speed_x: 8.811580872772977
+2024-10-16 14:48:11,613 - INFO - Ball bounced on paddle: <rect(32, 302, 20, 20)>
+2024-10-16 14:48:12,082 - INFO - Ball bounced on Y-axis. New speed_y: -9.516507342594815
+2024-10-16 14:48:12,083 - INFO - Ball bounced on top/bottom: <rect(312, 582, 20, 20)>
+2024-10-16 14:48:12,869 - INFO - Left player scored. Score: 2
+2024-10-16 14:48:12,870 - INFO - Ball reset to center with speed (-3, 3)
+2024-10-16 14:48:14,484 - INFO - Ball bounced on Y-axis. New speed_y: -3
+2024-10-16 14:48:14,485 - INFO - Ball bounced on top/bottom: <rect(99, 581, 20, 20)>
+2024-10-16 14:48:15,037 - INFO - Right player scored. Score: 2
+2024-10-16 14:48:15,038 - INFO - Ball reset to center with speed (3, -3)
+2024-10-16 14:48:16,654 - INFO - Ball bounced on Y-axis. New speed_y: 3
+2024-10-16 14:48:16,655 - INFO - Ball bounced on top/bottom: <rect(681, -1, 20, 20)>
+2024-10-16 14:48:16,887 - INFO - Ball bounced on X-axis. New speed_x: -3
+2024-10-16 14:48:16,888 - INFO - Ball bounced on paddle: <rect(723, 41, 20, 20)>
+2024-10-16 14:48:19,906 - INFO - Ball bounced on Y-axis. New speed_y: -3.24
+2024-10-16 14:48:19,907 - INFO - Ball bounced on top/bottom: <rect(183, 581, 20, 20)>
+2024-10-16 14:48:20,608 - INFO - Ball bounced on X-axis. New speed_x: 3.24
+2024-10-16 14:48:20,609 - INFO - Ball bounced on paddle: <rect(57, 455, 20, 20)>
+2024-10-16 14:48:23,147 - INFO - Ball bounced on Y-axis. New speed_y: 3.4992000000000005
+2024-10-16 14:48:23,148 - INFO - Ball bounced on top/bottom: <rect(513, -1, 20, 20)>
+2024-10-16 14:48:24,315 - INFO - Ball bounced on X-axis. New speed_x: -3.4992000000000005
+2024-10-16 14:48:24,316 - INFO - Ball bounced on paddle: <rect(723, 209, 20, 20)>
+2024-10-16 14:48:25,863 - INFO - Ball bounced on Y-axis. New speed_y: -3.7791360000000007
+2024-10-16 14:48:25,863 - INFO - Ball bounced on top/bottom: <rect(351, 581, 20, 20)>
+2024-10-16 14:48:27,150 - INFO - Ball bounced on X-axis. New speed_x: 3.7791360000000007
+2024-10-16 14:48:27,150 - INFO - Ball bounced on paddle: <rect(43, 273, 20, 20)>
+2024-10-16 14:48:27,167 - INFO - Ball bounced on X-axis. New speed_x: -4.081466880000001
+2024-10-16 14:48:27,167 - INFO - Ball bounced on paddle: <rect(47, 269, 20, 20)>
+2024-10-16 14:48:27,184 - INFO - Ball bounced on X-axis. New speed_x: 4.407984230400001
+2024-10-16 14:48:27,184 - INFO - Ball bounced on paddle: <rect(43, 265, 20, 20)>
+2024-10-16 14:48:27,201 - INFO - Ball bounced on X-axis. New speed_x: -4.760622968832002
+2024-10-16 14:48:27,201 - INFO - Ball bounced on paddle: <rect(48, 260, 20, 20)>
+2024-10-16 14:48:27,218 - INFO - Ball bounced on X-axis. New speed_x: 5.141472806338562
+2024-10-16 14:48:27,219 - INFO - Ball bounced on paddle: <rect(43, 255, 20, 20)>
+2024-10-16 14:48:27,235 - INFO - Ball bounced on X-axis. New speed_x: -5.552790630845648
+2024-10-16 14:48:27,235 - INFO - Ball bounced on paddle: <rect(49, 249, 20, 20)>
+2024-10-16 14:48:27,252 - INFO - Ball bounced on X-axis. New speed_x: 5.9970138813133
+2024-10-16 14:48:27,253 - INFO - Ball bounced on paddle: <rect(43, 243, 20, 20)>
+2024-10-16 14:48:27,268 - INFO - Ball bounced on X-axis. New speed_x: -6.476774991818364
+2024-10-16 14:48:27,269 - INFO - Ball bounced on paddle: <rect(49, 237, 20, 20)>
+2024-10-16 14:48:27,285 - INFO - Ball bounced on X-axis. New speed_x: 6.994916991163834
+2024-10-16 14:48:27,285 - INFO - Ball bounced on paddle: <rect(42, 230, 20, 20)>
+2024-10-16 14:48:27,301 - INFO - Ball bounced on X-axis. New speed_x: -7.55451035045694
+2024-10-16 14:48:27,302 - INFO - Ball bounced on paddle: <rect(50, 222, 20, 20)>
+2024-10-16 14:48:27,318 - INFO - Ball bounced on X-axis. New speed_x: 8.158871178493497
+2024-10-16 14:48:27,318 - INFO - Ball bounced on paddle: <rect(42, 214, 20, 20)>
+2024-10-16 14:48:27,335 - INFO - Ball bounced on X-axis. New speed_x: -8.811580872772977
+2024-10-16 14:48:27,336 - INFO - Ball bounced on paddle: <rect(51, 205, 20, 20)>
+2024-10-16 14:48:27,351 - INFO - Ball bounced on X-axis. New speed_x: 9.516507342594815
+2024-10-16 14:48:27,352 - INFO - Ball bounced on paddle: <rect(41, 195, 20, 20)>
+2024-10-16 14:48:27,367 - INFO - Ball bounced on X-axis. New speed_x: -10.2778279300024
+2024-10-16 14:48:27,367 - INFO - Ball bounced on paddle: <rect(51, 185, 20, 20)>
+2024-10-16 14:48:27,383 - INFO - Ball bounced on X-axis. New speed_x: 11.100054164402593
+2024-10-16 14:48:27,383 - INFO - Ball bounced on paddle: <rect(40, 174, 20, 20)>
+2024-10-16 14:48:27,400 - INFO - Ball bounced on X-axis. New speed_x: -11.988058497554801
+2024-10-16 14:48:27,400 - INFO - Ball bounced on paddle: <rect(52, 162, 20, 20)>
+2024-10-16 14:48:27,467 - INFO - Right player scored. Score: 3
+2024-10-16 14:48:27,467 - INFO - Ball reset to center with speed (3, 3)
+2024-10-16 14:48:29,086 - INFO - Ball bounced on Y-axis. New speed_y: -3
+2024-10-16 14:48:29,086 - INFO - Ball bounced on top/bottom: <rect(681, 581, 20, 20)>
+2024-10-16 14:48:29,352 - INFO - Ball bounced on X-axis. New speed_x: -3
+2024-10-16 14:48:29,353 - INFO - Ball bounced on paddle: <rect(729, 533, 20, 20)>
+2024-10-16 14:48:29,371 - INFO - Ball bounced on X-axis. New speed_x: 3.24
+2024-10-16 14:48:29,372 - INFO - Ball bounced on paddle: <rect(726, 530, 20, 20)>
+2024-10-16 14:48:29,386 - INFO - Ball bounced on X-axis. New speed_x: -3.4992000000000005
+2024-10-16 14:48:29,386 - INFO - Ball bounced on paddle: <rect(729, 527, 20, 20)>
+2024-10-16 14:48:29,402 - INFO - Ball bounced on X-axis. New speed_x: 3.7791360000000007
+2024-10-16 14:48:29,402 - INFO - Ball bounced on paddle: <rect(725, 523, 20, 20)>
+2024-10-16 14:48:29,420 - INFO - Ball bounced on X-axis. New speed_x: -4.081466880000001
+2024-10-16 14:48:29,420 - INFO - Ball bounced on paddle: <rect(729, 519, 20, 20)>
+2024-10-16 14:48:29,435 - INFO - Ball bounced on X-axis. New speed_x: 4.407984230400001
+2024-10-16 14:48:29,436 - INFO - Ball bounced on paddle: <rect(725, 515, 20, 20)>
+2024-10-16 14:48:29,451 - INFO - Ball bounced on X-axis. New speed_x: -4.760622968832002
+2024-10-16 14:48:29,452 - INFO - Ball bounced on paddle: <rect(730, 510, 20, 20)>
+2024-10-16 14:48:29,467 - INFO - Ball bounced on X-axis. New speed_x: 5.141472806338562
+2024-10-16 14:48:29,468 - INFO - Ball bounced on paddle: <rect(725, 505, 20, 20)>
+2024-10-16 14:48:29,483 - INFO - Ball bounced on X-axis. New speed_x: -5.552790630845648
+2024-10-16 14:48:29,485 - INFO - Ball bounced on paddle: <rect(731, 499, 20, 20)>
+2024-10-16 14:48:29,500 - INFO - Ball bounced on X-axis. New speed_x: 5.9970138813133
+2024-10-16 14:48:29,501 - INFO - Ball bounced on paddle: <rect(725, 493, 20, 20)>
+2024-10-16 14:48:29,517 - INFO - Ball bounced on X-axis. New speed_x: -6.476774991818364
+2024-10-16 14:48:29,518 - INFO - Ball bounced on paddle: <rect(731, 487, 20, 20)>
+2024-10-16 14:48:29,534 - INFO - Ball bounced on X-axis. New speed_x: 6.994916991163834
+2024-10-16 14:48:29,534 - INFO - Ball bounced on paddle: <rect(724, 480, 20, 20)>
+2024-10-16 14:48:29,552 - INFO - Ball bounced on X-axis. New speed_x: -7.55451035045694
+2024-10-16 14:48:29,552 - INFO - Ball bounced on paddle: <rect(732, 472, 20, 20)>
+2024-10-16 14:48:29,569 - INFO - Ball bounced on X-axis. New speed_x: 8.158871178493497
+2024-10-16 14:48:29,569 - INFO - Ball bounced on paddle: <rect(724, 464, 20, 20)>
+2024-10-16 14:48:29,585 - INFO - Ball bounced on X-axis. New speed_x: -8.811580872772977
+2024-10-16 14:48:29,586 - INFO - Ball bounced on paddle: <rect(733, 455, 20, 20)>
+2024-10-16 14:48:29,602 - INFO - Ball bounced on X-axis. New speed_x: 9.516507342594815
+2024-10-16 14:48:29,602 - INFO - Ball bounced on paddle: <rect(723, 445, 20, 20)>
+2024-10-16 14:48:29,617 - INFO - Ball bounced on X-axis. New speed_x: -10.2778279300024
+2024-10-16 14:48:29,617 - INFO - Ball bounced on paddle: <rect(733, 435, 20, 20)>
+2024-10-16 14:48:29,633 - INFO - Ball bounced on X-axis. New speed_x: 11.100054164402593
+2024-10-16 14:48:29,633 - INFO - Ball bounced on paddle: <rect(722, 424, 20, 20)>
+2024-10-16 14:48:29,716 - INFO - Left player scored. Score: 3
+2024-10-16 14:48:29,717 - INFO - Ball reset to center with speed (3, 3)
+2024-10-16 14:48:31,334 - INFO - Ball bounced on Y-axis. New speed_y: -3
+2024-10-16 14:48:31,336 - INFO - Ball bounced on top/bottom: <rect(681, 581, 20, 20)>
+2024-10-16 14:48:31,888 - INFO - Left player scored. Score: 4
+2024-10-16 14:48:31,889 - INFO - Ball reset to center with speed (-3, -3)
+2024-10-16 14:48:33,508 - INFO - Ball bounced on Y-axis. New speed_y: 3
+2024-10-16 14:48:33,509 - INFO - Ball bounced on top/bottom: <rect(99, -1, 20, 20)>
+2024-10-16 14:48:33,742 - INFO - Ball bounced on X-axis. New speed_x: 3
+2024-10-16 14:48:33,743 - INFO - Ball bounced on paddle: <rect(57, 41, 20, 20)>
+2024-10-16 14:48:36,736 - INFO - Ball bounced on Y-axis. New speed_y: -3.24
+2024-10-16 14:48:36,737 - INFO - Ball bounced on top/bottom: <rect(597, 581, 20, 20)>
+2024-10-16 14:48:37,435 - INFO - Ball bounced on X-axis. New speed_x: -3.24
+2024-10-16 14:48:37,436 - INFO - Ball bounced on paddle: <rect(723, 455, 20, 20)>
+2024-10-16 14:48:39,971 - INFO - Ball bounced on Y-axis. New speed_y: 3.4992000000000005
+2024-10-16 14:48:39,972 - INFO - Ball bounced on top/bottom: <rect(267, -1, 20, 20)>
+2024-10-16 14:48:41,209 - INFO - Ball bounced on X-axis. New speed_x: 3.4992000000000005
+2024-10-16 14:48:41,210 - INFO - Ball bounced on paddle: <rect(45, 221, 20, 20)>
+2024-10-16 14:48:41,226 - INFO - Ball bounced on X-axis. New speed_x: -3.7791360000000007
+2024-10-16 14:48:41,227 - INFO - Ball bounced on paddle: <rect(49, 225, 20, 20)>
+2024-10-16 14:48:41,245 - INFO - Ball bounced on X-axis. New speed_x: 4.081466880000001
+2024-10-16 14:48:41,245 - INFO - Ball bounced on paddle: <rect(45, 229, 20, 20)>
+2024-10-16 14:48:41,260 - INFO - Ball bounced on X-axis. New speed_x: -4.407984230400001
+2024-10-16 14:48:41,260 - INFO - Ball bounced on paddle: <rect(49, 233, 20, 20)>
+2024-10-16 14:48:41,275 - INFO - Ball bounced on X-axis. New speed_x: 4.760622968832002
+2024-10-16 14:48:41,276 - INFO - Ball bounced on paddle: <rect(44, 238, 20, 20)>
+2024-10-16 14:48:41,292 - INFO - Ball bounced on X-axis. New speed_x: -5.141472806338562
+2024-10-16 14:48:41,292 - INFO - Ball bounced on paddle: <rect(49, 243, 20, 20)>
+2024-10-16 14:48:41,309 - INFO - Ball bounced on X-axis. New speed_x: 5.552790630845648
+2024-10-16 14:48:41,310 - INFO - Ball bounced on paddle: <rect(43, 249, 20, 20)>
+2024-10-16 14:48:41,325 - INFO - Ball bounced on X-axis. New speed_x: -5.9970138813133
+2024-10-16 14:48:41,325 - INFO - Ball bounced on paddle: <rect(49, 255, 20, 20)>
+2024-10-16 14:48:41,340 - INFO - Ball bounced on X-axis. New speed_x: 6.476774991818364
+2024-10-16 14:48:41,341 - INFO - Ball bounced on paddle: <rect(43, 261, 20, 20)>
+2024-10-16 14:48:41,357 - INFO - Ball bounced on X-axis. New speed_x: -6.994916991163834
+2024-10-16 14:48:41,358 - INFO - Ball bounced on paddle: <rect(50, 268, 20, 20)>
+2024-10-16 14:48:41,374 - INFO - Ball bounced on X-axis. New speed_x: 7.55451035045694
+2024-10-16 14:48:41,375 - INFO - Ball bounced on paddle: <rect(42, 276, 20, 20)>
+2024-10-16 14:48:41,390 - INFO - Ball bounced on X-axis. New speed_x: -8.158871178493497
+2024-10-16 14:48:41,391 - INFO - Ball bounced on paddle: <rect(50, 284, 20, 20)>
+2024-10-16 14:48:41,407 - INFO - Ball bounced on X-axis. New speed_x: 8.811580872772977
+2024-10-16 14:48:41,408 - INFO - Ball bounced on paddle: <rect(41, 293, 20, 20)>
+2024-10-16 14:48:41,424 - INFO - Ball bounced on X-axis. New speed_x: -9.516507342594815
+2024-10-16 14:48:41,425 - INFO - Ball bounced on paddle: <rect(51, 303, 20, 20)>
+2024-10-16 14:48:41,441 - INFO - Ball bounced on X-axis. New speed_x: 10.2778279300024
+2024-10-16 14:48:41,441 - INFO - Ball bounced on paddle: <rect(41, 313, 20, 20)>
+2024-10-16 14:48:41,457 - INFO - Ball bounced on X-axis. New speed_x: -11.100054164402593
+2024-10-16 14:48:41,458 - INFO - Ball bounced on paddle: <rect(52, 324, 20, 20)>
+2024-10-16 14:48:41,540 - INFO - Right player scored. Score: 4
+2024-10-16 14:48:41,541 - INFO - Ball reset to center with speed (-3, 3)
+2024-10-16 14:48:43,162 - INFO - Ball bounced on Y-axis. New speed_y: -3
+2024-10-16 14:48:43,162 - INFO - Ball bounced on top/bottom: <rect(99, 581, 20, 20)>
+2024-10-16 14:48:43,429 - INFO - Ball bounced on X-axis. New speed_x: 3
+2024-10-16 14:48:43,430 - INFO - Ball bounced on paddle: <rect(51, 533, 20, 20)>
+2024-10-16 14:48:43,445 - INFO - Ball bounced on X-axis. New speed_x: -3.24
+2024-10-16 14:48:43,446 - INFO - Ball bounced on paddle: <rect(54, 530, 20, 20)>
+2024-10-16 14:48:43,462 - INFO - Ball bounced on X-axis. New speed_x: 3.4992000000000005
+2024-10-16 14:48:43,463 - INFO - Ball bounced on paddle: <rect(51, 527, 20, 20)>
+2024-10-16 14:48:43,479 - INFO - Ball bounced on X-axis. New speed_x: -3.7791360000000007
+2024-10-16 14:48:43,480 - INFO - Ball bounced on paddle: <rect(55, 523, 20, 20)>
+2024-10-16 14:48:43,496 - INFO - Ball bounced on X-axis. New speed_x: 4.081466880000001
+2024-10-16 14:48:43,496 - INFO - Ball bounced on paddle: <rect(51, 519, 20, 20)>
+2024-10-16 14:48:43,513 - INFO - Ball bounced on X-axis. New speed_x: -4.407984230400001
+2024-10-16 14:48:43,513 - INFO - Ball bounced on paddle: <rect(55, 515, 20, 20)>
+2024-10-16 14:48:43,529 - INFO - Ball bounced on X-axis. New speed_x: 4.760622968832002
+2024-10-16 14:48:43,529 - INFO - Ball bounced on paddle: <rect(50, 510, 20, 20)>
+2024-10-16 14:48:43,544 - INFO - Ball bounced on X-axis. New speed_x: -5.141472806338562
+2024-10-16 14:48:43,545 - INFO - Ball bounced on paddle: <rect(55, 505, 20, 20)>
+2024-10-16 14:48:43,562 - INFO - Ball bounced on X-axis. New speed_x: 5.552790630845648
+2024-10-16 14:48:43,562 - INFO - Ball bounced on paddle: <rect(49, 499, 20, 20)>
+2024-10-16 14:48:43,579 - INFO - Ball bounced on X-axis. New speed_x: -5.9970138813133
+2024-10-16 14:48:43,580 - INFO - Ball bounced on paddle: <rect(55, 493, 20, 20)>
+2024-10-16 14:48:43,596 - INFO - Ball bounced on X-axis. New speed_x: 6.476774991818364
+2024-10-16 14:48:43,597 - INFO - Ball bounced on paddle: <rect(49, 487, 20, 20)>
+2024-10-16 14:48:43,612 - INFO - Ball bounced on X-axis. New speed_x: -6.994916991163834
+2024-10-16 14:48:43,613 - INFO - Ball bounced on paddle: <rect(56, 480, 20, 20)>
+2024-10-16 14:48:43,630 - INFO - Ball bounced on X-axis. New speed_x: 7.55451035045694
+2024-10-16 14:48:43,630 - INFO - Ball bounced on paddle: <rect(48, 472, 20, 20)>
+2024-10-16 14:48:43,646 - INFO - Ball bounced on X-axis. New speed_x: -8.158871178493497
+2024-10-16 14:48:43,647 - INFO - Ball bounced on paddle: <rect(56, 464, 20, 20)>
+2024-10-16 14:48:43,662 - INFO - Ball bounced on X-axis. New speed_x: 8.811580872772977
+2024-10-16 14:48:43,663 - INFO - Ball bounced on paddle: <rect(47, 455, 20, 20)>
+2024-10-16 14:48:43,680 - INFO - Ball bounced on X-axis. New speed_x: -9.516507342594815
+2024-10-16 14:48:43,680 - INFO - Ball bounced on paddle: <rect(57, 445, 20, 20)>
+2024-10-16 14:48:43,695 - INFO - Ball bounced on X-axis. New speed_x: 10.2778279300024
+2024-10-16 14:48:43,696 - INFO - Ball bounced on paddle: <rect(47, 435, 20, 20)>
+2024-10-16 14:48:43,712 - INFO - Ball bounced on X-axis. New speed_x: -11.100054164402593
+2024-10-16 14:48:43,713 - INFO - Ball bounced on paddle: <rect(58, 424, 20, 20)>
+2024-10-16 14:48:43,798 - INFO - Right player scored. Score: 5
+2024-10-16 14:48:43,798 - INFO - Ball reset to center with speed (3, 3)
+2024-10-16 14:48:45,416 - INFO - Ball bounced on Y-axis. New speed_y: -3
+2024-10-16 14:48:45,416 - INFO - Ball bounced on top/bottom: <rect(681, 581, 20, 20)>
+2024-10-16 14:48:45,971 - INFO - Left player scored. Score: 5
+2024-10-16 14:48:45,972 - INFO - Ball reset to center with speed (-3, -3)
+2024-10-16 14:48:47,589 - INFO - Ball bounced on Y-axis. New speed_y: 3
+2024-10-16 14:48:47,589 - INFO - Ball bounced on top/bottom: <rect(99, -1, 20, 20)>
+2024-10-16 14:48:48,142 - INFO - Right player scored. Score: 6
+2024-10-16 14:48:48,142 - INFO - Ball reset to center with speed (3, 3)
+2024-10-16 14:48:49,761 - INFO - Ball bounced on Y-axis. New speed_y: -3
+2024-10-16 14:48:49,762 - INFO - Ball bounced on top/bottom: <rect(681, 581, 20, 20)>
+2024-10-16 14:48:50,311 - INFO - Left player scored. Score: 6
+2024-10-16 14:48:50,312 - INFO - Ball reset to center with speed (3, 3)
+2024-10-16 14:48:51,933 - INFO - Ball bounced on Y-axis. New speed_y: -3
+2024-10-16 14:48:51,934 - INFO - Ball bounced on top/bottom: <rect(681, 581, 20, 20)>
+2024-10-16 14:48:52,484 - INFO - Left player scored. Score: 7
+2024-10-16 14:48:52,485 - INFO - Ball reset to center with speed (-3, 3)
+2024-10-16 14:48:54,101 - INFO - Ball bounced on Y-axis. New speed_y: -3
+2024-10-16 14:48:54,102 - INFO - Ball bounced on top/bottom: <rect(99, 581, 20, 20)>
+2024-10-16 14:48:54,368 - INFO - Ball bounced on X-axis. New speed_x: 3
+2024-10-16 14:48:54,369 - INFO - Ball bounced on paddle: <rect(51, 533, 20, 20)>
+2024-10-16 14:48:54,386 - INFO - Ball bounced on X-axis. New speed_x: -3.24
+2024-10-16 14:48:54,386 - INFO - Ball bounced on paddle: <rect(54, 530, 20, 20)>
+2024-10-16 14:48:54,402 - INFO - Ball bounced on X-axis. New speed_x: 3.4992000000000005
+2024-10-16 14:48:54,403 - INFO - Ball bounced on paddle: <rect(51, 527, 20, 20)>
+2024-10-16 14:48:54,418 - INFO - Ball bounced on X-axis. New speed_x: -3.7791360000000007
+2024-10-16 14:48:54,419 - INFO - Ball bounced on paddle: <rect(55, 523, 20, 20)>
+2024-10-16 14:48:54,435 - INFO - Ball bounced on X-axis. New speed_x: 4.081466880000001
+2024-10-16 14:48:54,436 - INFO - Ball bounced on paddle: <rect(51, 519, 20, 20)>
+2024-10-16 14:48:54,451 - INFO - Ball bounced on X-axis. New speed_x: -4.407984230400001
+2024-10-16 14:48:54,452 - INFO - Ball bounced on paddle: <rect(55, 515, 20, 20)>
+2024-10-16 14:48:54,469 - INFO - Ball bounced on X-axis. New speed_x: 4.760622968832002
+2024-10-16 14:48:54,469 - INFO - Ball bounced on paddle: <rect(50, 510, 20, 20)>
+2024-10-16 14:48:54,486 - INFO - Ball bounced on X-axis. New speed_x: -5.141472806338562
+2024-10-16 14:48:54,487 - INFO - Ball bounced on paddle: <rect(55, 505, 20, 20)>
+2024-10-16 14:48:54,503 - INFO - Ball bounced on X-axis. New speed_x: 5.552790630845648
+2024-10-16 14:48:54,504 - INFO - Ball bounced on paddle: <rect(49, 499, 20, 20)>
+2024-10-16 14:48:54,520 - INFO - Ball bounced on X-axis. New speed_x: -5.9970138813133
+2024-10-16 14:48:54,520 - INFO - Ball bounced on paddle: <rect(55, 493, 20, 20)>
+2024-10-16 14:48:54,537 - INFO - Ball bounced on X-axis. New speed_x: 6.476774991818364
+2024-10-16 14:48:54,537 - INFO - Ball bounced on paddle: <rect(49, 487, 20, 20)>
+2024-10-16 14:48:54,553 - INFO - Ball bounced on X-axis. New speed_x: -6.994916991163834
+2024-10-16 14:48:54,554 - INFO - Ball bounced on paddle: <rect(56, 480, 20, 20)>
+2024-10-16 14:48:54,570 - INFO - Ball bounced on X-axis. New speed_x: 7.55451035045694
+2024-10-16 14:48:54,571 - INFO - Ball bounced on paddle: <rect(48, 472, 20, 20)>
+2024-10-16 14:48:54,587 - INFO - Ball bounced on X-axis. New speed_x: -8.158871178493497
+2024-10-16 14:48:54,588 - INFO - Ball bounced on paddle: <rect(56, 464, 20, 20)>
+2024-10-16 14:48:54,605 - INFO - Ball bounced on X-axis. New speed_x: 8.811580872772977
+2024-10-16 14:48:54,605 - INFO - Ball bounced on paddle: <rect(47, 455, 20, 20)>
+2024-10-16 14:48:54,621 - INFO - Ball bounced on X-axis. New speed_x: -9.516507342594815
+2024-10-16 14:48:54,622 - INFO - Ball bounced on paddle: <rect(57, 445, 20, 20)>
+2024-10-16 14:48:54,638 - INFO - Ball bounced on X-axis. New speed_x: 10.2778279300024
+2024-10-16 14:48:54,639 - INFO - Ball bounced on paddle: <rect(47, 435, 20, 20)>
+2024-10-16 14:48:54,655 - INFO - Ball bounced on X-axis. New speed_x: -11.100054164402593
+2024-10-16 14:48:54,656 - INFO - Ball bounced on paddle: <rect(58, 424, 20, 20)>
+2024-10-16 14:48:54,739 - INFO - Right player scored. Score: 7
+2024-10-16 14:48:54,739 - INFO - Ball reset to center with speed (-3, 3)
+2024-10-16 14:48:56,350 - INFO - Ball bounced on Y-axis. New speed_y: -3
+2024-10-16 14:48:56,350 - INFO - Ball bounced on top/bottom: <rect(99, 581, 20, 20)>
+2024-10-16 14:48:56,611 - INFO - Ball bounced on X-axis. New speed_x: 3
+2024-10-16 14:48:56,612 - INFO - Ball bounced on paddle: <rect(51, 533, 20, 20)>
+2024-10-16 14:48:56,628 - INFO - Ball bounced on X-axis. New speed_x: -3.24
+2024-10-16 14:48:56,629 - INFO - Ball bounced on paddle: <rect(54, 530, 20, 20)>
+2024-10-16 14:48:56,644 - INFO - Ball bounced on X-axis. New speed_x: 3.4992000000000005
+2024-10-16 14:48:56,645 - INFO - Ball bounced on paddle: <rect(51, 527, 20, 20)>
+2024-10-16 14:48:56,662 - INFO - Ball bounced on X-axis. New speed_x: -3.7791360000000007
+2024-10-16 14:48:56,662 - INFO - Ball bounced on paddle: <rect(55, 523, 20, 20)>
+2024-10-16 14:48:56,679 - INFO - Ball bounced on X-axis. New speed_x: 4.081466880000001
+2024-10-16 14:48:56,679 - INFO - Ball bounced on paddle: <rect(51, 519, 20, 20)>
+2024-10-16 14:48:56,694 - INFO - Ball bounced on X-axis. New speed_x: -4.407984230400001
+2024-10-16 14:48:56,695 - INFO - Ball bounced on paddle: <rect(55, 515, 20, 20)>
+2024-10-16 14:48:56,710 - INFO - Ball bounced on X-axis. New speed_x: 4.760622968832002
+2024-10-16 14:48:56,711 - INFO - Ball bounced on paddle: <rect(50, 510, 20, 20)>
+2024-10-16 14:48:56,726 - INFO - Ball bounced on X-axis. New speed_x: -5.141472806338562
+2024-10-16 14:48:56,727 - INFO - Ball bounced on paddle: <rect(55, 505, 20, 20)>
+2024-10-16 14:48:56,743 - INFO - Ball bounced on X-axis. New speed_x: 5.552790630845648
+2024-10-16 14:48:56,744 - INFO - Ball bounced on paddle: <rect(49, 499, 20, 20)>
+2024-10-16 14:48:56,760 - INFO - Ball bounced on X-axis. New speed_x: -5.9970138813133
+2024-10-16 14:48:56,761 - INFO - Ball bounced on paddle: <rect(55, 493, 20, 20)>
+2024-10-16 14:48:56,775 - INFO - Ball bounced on X-axis. New speed_x: 6.476774991818364
+2024-10-16 14:48:56,776 - INFO - Ball bounced on paddle: <rect(49, 487, 20, 20)>
+2024-10-16 14:48:56,793 - INFO - Ball bounced on X-axis. New speed_x: -6.994916991163834
+2024-10-16 14:48:56,793 - INFO - Ball bounced on paddle: <rect(56, 480, 20, 20)>
+2024-10-16 14:48:56,809 - INFO - Ball bounced on X-axis. New speed_x: 7.55451035045694
+2024-10-16 14:48:56,810 - INFO - Ball bounced on paddle: <rect(48, 472, 20, 20)>
+2024-10-16 14:48:56,826 - INFO - Ball bounced on X-axis. New speed_x: -8.158871178493497
+2024-10-16 14:48:56,827 - INFO - Ball bounced on paddle: <rect(56, 464, 20, 20)>
+2024-10-16 14:48:56,842 - INFO - Ball bounced on X-axis. New speed_x: 8.811580872772977
+2024-10-16 14:48:56,843 - INFO - Ball bounced on paddle: <rect(47, 455, 20, 20)>
+2024-10-16 14:48:56,860 - INFO - Ball bounced on X-axis. New speed_x: -9.516507342594815
+2024-10-16 14:48:56,860 - INFO - Ball bounced on paddle: <rect(57, 445, 20, 20)>
+2024-10-16 14:48:56,876 - INFO - Ball bounced on X-axis. New speed_x: 10.2778279300024
+2024-10-16 14:48:56,877 - INFO - Ball bounced on paddle: <rect(47, 435, 20, 20)>
+2024-10-16 14:48:56,893 - INFO - Ball bounced on X-axis. New speed_x: -11.100054164402593
+2024-10-16 14:48:56,893 - INFO - Ball bounced on paddle: <rect(58, 424, 20, 20)>
+2024-10-16 14:48:56,975 - INFO - Right player scored. Score: 8
+2024-10-16 14:48:56,976 - INFO - Ball reset to center with speed (3, -3)
+2024-10-16 14:48:58,587 - INFO - Ball bounced on Y-axis. New speed_y: 3
+2024-10-16 14:48:58,588 - INFO - Ball bounced on top/bottom: <rect(681, -1, 20, 20)>
+2024-10-16 14:48:59,135 - INFO - Left player scored. Score: 8
+2024-10-16 14:48:59,135 - INFO - Ball reset to center with speed (3, -3)
+2024-10-16 14:49:00,740 - INFO - Ball bounced on Y-axis. New speed_y: 3
+2024-10-16 14:49:00,741 - INFO - Ball bounced on top/bottom: <rect(681, -1, 20, 20)>
+2024-10-16 14:49:01,290 - INFO - Left player scored. Score: 9
+2024-10-16 14:49:01,291 - INFO - Ball reset to center with speed (-3, 3)
+2024-10-16 14:49:02,909 - INFO - Ball bounced on Y-axis. New speed_y: -3
+2024-10-16 14:49:02,909 - INFO - Ball bounced on top/bottom: <rect(99, 581, 20, 20)>
+2024-10-16 14:49:03,178 - INFO - Ball bounced on X-axis. New speed_x: 3
+2024-10-16 14:49:03,179 - INFO - Ball bounced on paddle: <rect(51, 533, 20, 20)>
+2024-10-16 14:49:03,194 - INFO - Ball bounced on X-axis. New speed_x: -3.24
+2024-10-16 14:49:03,195 - INFO - Ball bounced on paddle: <rect(54, 530, 20, 20)>
+2024-10-16 14:49:03,211 - INFO - Ball bounced on X-axis. New speed_x: 3.4992000000000005
+2024-10-16 14:49:03,212 - INFO - Ball bounced on paddle: <rect(51, 527, 20, 20)>
+2024-10-16 14:49:03,229 - INFO - Ball bounced on X-axis. New speed_x: -3.7791360000000007
+2024-10-16 14:49:03,229 - INFO - Ball bounced on paddle: <rect(55, 523, 20, 20)>
+2024-10-16 14:49:03,246 - INFO - Ball bounced on X-axis. New speed_x: 4.081466880000001
+2024-10-16 14:49:03,247 - INFO - Ball bounced on paddle: <rect(51, 519, 20, 20)>
+2024-10-16 14:49:03,262 - INFO - Ball bounced on X-axis. New speed_x: -4.407984230400001
+2024-10-16 14:49:03,263 - INFO - Ball bounced on paddle: <rect(55, 515, 20, 20)>
+2024-10-16 14:49:03,279 - INFO - Ball bounced on X-axis. New speed_x: 4.760622968832002
+2024-10-16 14:49:03,279 - INFO - Ball bounced on paddle: <rect(50, 510, 20, 20)>
+2024-10-16 14:49:03,295 - INFO - Ball bounced on X-axis. New speed_x: -5.141472806338562
+2024-10-16 14:49:03,295 - INFO - Ball bounced on paddle: <rect(55, 505, 20, 20)>
+2024-10-16 14:49:03,311 - INFO - Ball bounced on X-axis. New speed_x: 5.552790630845648
+2024-10-16 14:49:03,312 - INFO - Ball bounced on paddle: <rect(49, 499, 20, 20)>
+2024-10-16 14:49:03,328 - INFO - Ball bounced on X-axis. New speed_x: -5.9970138813133
+2024-10-16 14:49:03,329 - INFO - Ball bounced on paddle: <rect(55, 493, 20, 20)>
+2024-10-16 14:49:03,345 - INFO - Ball bounced on X-axis. New speed_x: 6.476774991818364
+2024-10-16 14:49:03,346 - INFO - Ball bounced on paddle: <rect(49, 487, 20, 20)>
+2024-10-16 14:49:03,362 - INFO - Ball bounced on X-axis. New speed_x: -6.994916991163834
+2024-10-16 14:49:03,362 - INFO - Ball bounced on paddle: <rect(56, 480, 20, 20)>
+2024-10-16 14:49:03,379 - INFO - Ball bounced on X-axis. New speed_x: 7.55451035045694
+2024-10-16 14:49:03,380 - INFO - Ball bounced on paddle: <rect(48, 472, 20, 20)>
+2024-10-16 14:49:03,396 - INFO - Ball bounced on X-axis. New speed_x: -8.158871178493497
+2024-10-16 14:49:03,396 - INFO - Ball bounced on paddle: <rect(56, 464, 20, 20)>
+2024-10-16 14:49:03,413 - INFO - Ball bounced on X-axis. New speed_x: 8.811580872772977
+2024-10-16 14:49:03,414 - INFO - Ball bounced on paddle: <rect(47, 455, 20, 20)>
+2024-10-16 14:49:03,429 - INFO - Ball bounced on X-axis. New speed_x: -9.516507342594815
+2024-10-16 14:49:03,429 - INFO - Ball bounced on paddle: <rect(57, 445, 20, 20)>
+2024-10-16 14:49:03,446 - INFO - Ball bounced on X-axis. New speed_x: 10.2778279300024
+2024-10-16 14:49:03,446 - INFO - Ball bounced on paddle: <rect(47, 435, 20, 20)>
+2024-10-16 14:49:03,463 - INFO - Ball bounced on X-axis. New speed_x: -11.100054164402593
+2024-10-16 14:49:03,463 - INFO - Ball bounced on paddle: <rect(58, 424, 20, 20)>
+2024-10-16 14:49:03,543 - INFO - Right player scored. Score: 9
+2024-10-16 14:49:03,543 - INFO - Ball reset to center with speed (3, 3)
+2024-10-16 14:49:05,162 - INFO - Ball bounced on Y-axis. New speed_y: -3
+2024-10-16 14:49:05,163 - INFO - Ball bounced on top/bottom: <rect(681, 581, 20, 20)>
+2024-10-16 14:49:05,709 - INFO - Left player scored. Score: 10
+2024-10-16 14:49:05,718 - INFO - Ball reset to center with speed (-3, -3)
+2024-10-16 14:49:07,324 - INFO - Ball bounced on Y-axis. New speed_y: 3
+2024-10-16 14:49:07,325 - INFO - Ball bounced on top/bottom: <rect(99, -1, 20, 20)>
+2024-10-16 14:49:07,874 - INFO - Right player scored. Score: 10
+2024-10-16 14:49:07,875 - INFO - Ball reset to center with speed (-3, 3)
+2024-10-16 14:49:09,492 - INFO - Ball bounced on Y-axis. New speed_y: -3
+2024-10-16 14:49:09,492 - INFO - Ball bounced on top/bottom: <rect(99, 581, 20, 20)>
+2024-10-16 14:49:09,762 - INFO - Ball bounced on X-axis. New speed_x: 3
+2024-10-16 14:49:09,763 - INFO - Ball bounced on paddle: <rect(51, 533, 20, 20)>
+2024-10-16 14:49:09,780 - INFO - Ball bounced on X-axis. New speed_x: -3.24
+2024-10-16 14:49:09,780 - INFO - Ball bounced on paddle: <rect(54, 530, 20, 20)>
+2024-10-16 14:49:09,797 - INFO - Ball bounced on X-axis. New speed_x: 3.4992000000000005
+2024-10-16 14:49:09,799 - INFO - Ball bounced on paddle: <rect(51, 527, 20, 20)>
+2024-10-16 14:49:09,813 - INFO - Ball bounced on X-axis. New speed_x: -3.7791360000000007
+2024-10-16 14:49:09,814 - INFO - Ball bounced on paddle: <rect(55, 523, 20, 20)>
+2024-10-16 14:49:09,831 - INFO - Ball bounced on X-axis. New speed_x: 4.081466880000001
+2024-10-16 14:49:09,831 - INFO - Ball bounced on paddle: <rect(51, 519, 20, 20)>
+2024-10-16 14:49:09,848 - INFO - Ball bounced on X-axis. New speed_x: -4.407984230400001
+2024-10-16 14:49:09,849 - INFO - Ball bounced on paddle: <rect(55, 515, 20, 20)>
+2024-10-16 14:49:09,865 - INFO - Ball bounced on X-axis. New speed_x: 4.760622968832002
+2024-10-16 14:49:09,866 - INFO - Ball bounced on paddle: <rect(50, 510, 20, 20)>
+2024-10-16 14:49:09,883 - INFO - Ball bounced on X-axis. New speed_x: -5.141472806338562
+2024-10-16 14:49:09,884 - INFO - Ball bounced on paddle: <rect(55, 505, 20, 20)>
+2024-10-16 14:49:09,898 - INFO - Ball bounced on X-axis. New speed_x: 5.552790630845648
+2024-10-16 14:49:09,899 - INFO - Ball bounced on paddle: <rect(49, 499, 20, 20)>
+2024-10-16 14:49:09,915 - INFO - Ball bounced on X-axis. New speed_x: -5.9970138813133
+2024-10-16 14:49:09,916 - INFO - Ball bounced on paddle: <rect(55, 493, 20, 20)>
+2024-10-16 14:49:09,932 - INFO - Ball bounced on X-axis. New speed_x: 6.476774991818364
+2024-10-16 14:49:09,933 - INFO - Ball bounced on paddle: <rect(49, 487, 20, 20)>
+2024-10-16 14:49:09,949 - INFO - Ball bounced on X-axis. New speed_x: -6.994916991163834
+2024-10-16 14:49:09,949 - INFO - Ball bounced on paddle: <rect(56, 480, 20, 20)>
+2024-10-16 14:49:09,965 - INFO - Ball bounced on X-axis. New speed_x: 7.55451035045694
+2024-10-16 14:49:09,965 - INFO - Ball bounced on paddle: <rect(48, 472, 20, 20)>
+2024-10-16 14:49:09,981 - INFO - Ball bounced on X-axis. New speed_x: -8.158871178493497
+2024-10-16 14:49:09,982 - INFO - Ball bounced on paddle: <rect(56, 464, 20, 20)>
+2024-10-16 14:49:09,997 - INFO - Ball bounced on X-axis. New speed_x: 8.811580872772977
+2024-10-16 14:49:09,998 - INFO - Ball bounced on paddle: <rect(47, 455, 20, 20)>
+2024-10-16 14:49:10,014 - INFO - Ball bounced on X-axis. New speed_x: -9.516507342594815
+2024-10-16 14:49:10,015 - INFO - Ball bounced on paddle: <rect(57, 445, 20, 20)>
+2024-10-16 14:49:10,032 - INFO - Ball bounced on X-axis. New speed_x: 10.2778279300024
+2024-10-16 14:49:10,032 - INFO - Ball bounced on paddle: <rect(47, 435, 20, 20)>
+2024-10-16 14:49:10,049 - INFO - Ball bounced on X-axis. New speed_x: -11.100054164402593
+2024-10-16 14:49:10,050 - INFO - Ball bounced on paddle: <rect(58, 424, 20, 20)>
+2024-10-16 14:49:10,132 - INFO - Right player scored. Score: 11
+2024-10-16 14:49:10,133 - INFO - Ball reset to center with speed (-3, -3)
+2024-10-16 14:49:11,747 - INFO - Ball bounced on Y-axis. New speed_y: 3
+2024-10-16 14:49:11,747 - INFO - Ball bounced on top/bottom: <rect(99, -1, 20, 20)>
+2024-10-16 14:49:12,293 - INFO - Right player scored. Score: 12
+2024-10-16 14:49:12,294 - INFO - Ball reset to center with speed (3, 3)
+2024-10-16 14:49:12,294 - INFO - Right player has won the game.
+2024-10-16 14:49:22,730 - WARNING - Invalid input for initials: '.'
+2024-10-16 14:49:22,859 - WARNING - Invalid input for initials: '.'
+2024-10-16 14:49:26,739 - INFO - Player entered initials: GSA
+2024-10-16 14:49:26,741 - INFO - High scores saved successfully
+2024-10-16 14:49:26,741 - INFO - High scores updated. New entry: GSA - 12
+2024-10-16 14:49:33,885 - INFO - Game exited by user.
